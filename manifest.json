@@ -1,0 +1,10 @@
+{
+  "id": "org.bleach.filler.indicator",
+  "version": "1.0.0",
+  "name": "Bleach Filler Indicator",
+  "description": "Highlights Bleach filler arcs directly in Nuvio",
+  "resources": ["meta"],
+  "types": ["series"],
+  "idPrefixes": ["tt0434665"],
+  "catalogs": []
+}
